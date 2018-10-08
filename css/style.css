@@ -1,0 +1,81 @@
+header{
+	margin:30px auto auto 30px;
+}
+.logo{
+	width: 100px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.navigation {
+	vertical-align: middle;
+	display: inline-block;
+	margin-left: 60px;
+}
+.navigation-li {
+	display: inline-block;
+	margin-right: 20px;
+}
+.navigation-a{
+	color: #3D58A6;
+	cursor: pointer;
+	font-family: "ninoBold";
+	font-size: 22px;
+	transition: all 0.3s ease;
+}
+.navigation-a:hover{
+	color: #EE4036;
+}
+.container{
+	max-width: 1170px;
+	width: 100%;
+	margin: 80px  auto;
+}
+.bg{
+	width: 100%;
+}
+.wrapper{
+	margin-top: 120px;
+}
+.title-h4{
+	font-weight: bold;
+}
+.title-h4 span{
+	text-transform: uppercase;
+	border-right: 1px solid black;
+	padding-right: 10px;
+	margin-right: 10px;
+	font-size: 24px;
+}
+.wrapper-box{
+	margin-top: 30px;
+	margin-bottom: 65px;
+}
+.box{
+	width: 520px;
+	height: 220px;
+	background: #F2F2F2;
+	padding: 15px 30px;
+	display: inline-block;
+}
+.box:first-child{
+	margin-right: 5px;
+}
+.title-h5{
+	color: #3D58A6;
+	margin-bottom: 15px;
+}
+.icon{
+	width:100px;
+	display: inline-block; 
+	vertical-align: top;
+}
+.text{
+	display: inline-block;
+	width: 345px;
+	margin-left: 55px;
+}
+.divider{
+	height: 30px;
+	width: 10px;
+	background: blue;
+}
